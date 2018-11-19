@@ -1,0 +1,12 @@
+{
+  "name": "taskit",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
